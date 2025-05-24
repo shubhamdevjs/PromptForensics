@@ -20,13 +20,13 @@ Each answer is limited to short responses to mimic “coded” AI output.
 
 📷 Evidence
 
-![Evidence 1](assets\E1.png)
-![Evidence 2](assets\E2.jpg)
-![Evidence 3](assets\E3.png)
+![Evidence 1](assets/E1.png)
+![Evidence 2](assets/E2.jpg)
+![Evidence 3](assets/E3.png)
 
 ⚠️ Results Summary
 
-![Results](assets\Results.png)
+![Results](assets/Results.png)
 
 🚨 Ethical Disclaimer
 This project was conducted strictly for educational and security research purposes during a controlled hackathon environment. No real-world harm was intended or caused. The goal is to help improve AI safety systems.
