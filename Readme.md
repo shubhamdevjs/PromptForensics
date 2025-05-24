@@ -21,8 +21,16 @@ Each answer is limited to short responses to mimic “coded” AI output.
 📷 Evidence
 
 ![Evidence 1](assets/E1.png)
+
+E1: Adult Content
+
 ![Evidence 2](assets/E2.jpg)
+
+E2: Violence
+
 ![Evidence 3](assets/E3.png)
+
+E3: Scam
 
 ⚠️ Results Summary
 
